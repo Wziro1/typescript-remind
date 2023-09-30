@@ -144,3 +144,7 @@ namespace Mohammed {
     };
     export const email = 'Mohammed@gmail.com';
 }
+
+// what is literal type (give me an example)
+// literal type is like (const)
+const literalType: 'a' | 'b' | 'c' = 'a';

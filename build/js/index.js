@@ -97,3 +97,6 @@ var Mohammed;
     };
     Mohammed.email = 'Mohammed@gmail.com';
 })(Mohammed || (Mohammed = {}));
+// what is literal type (give me an example)
+// literal type is like (const)
+const literalType = 'a';
